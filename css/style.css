@@ -404,6 +404,13 @@ ul.btn li:last-child {
      align-items: center;
 }
 
+.banner_main_second {
+     background: url(../images/top_head.png);
+     background-repeat: no-repeat;
+     min-height: 840px;
+     background-size: 100% 100%;
+}
+
 .text-bg {
      text-align: center;
 }
